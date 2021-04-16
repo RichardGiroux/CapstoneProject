@@ -10,3 +10,5 @@ It also has a built it telnet system. This was designed with the idea in mind th
 It also has a grading feature that is WIP. It is able to take 2 files, one "master" file which will be used as a reference file in which the other file will be graded against. The other file is the file to be graded. There are also 4 checkboxes on this page, they are grading criteria. The user is able to choose any of these in any amount to mix and match the criteria as desired. When the user is satisfied with his choices, he hits the button to grade the file and a grade is printed out. If the user needs more information the files are also displayed in the "Compare" tab. If the user doesn't select ANY checkboxes and hits grade, the whole file will be graded.
 
 - Currently on the grading tab only the "Telnet" and "Static/Default Routes" checkboxes work, this is a WIP.
+
+This project is currently still ongoing.
